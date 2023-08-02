@@ -1,6 +1,5 @@
 # NFT Marketplace - Your Gateway to Buying and Selling Unique Digital Assets
 
-![Project Logo](link_to_your_logo.png) <!-- Replace "link_to_your_logo.png" with the actual link to your project logo -->
 
 ## Table of Contents
 
@@ -52,13 +51,13 @@ Follow the steps below to set up and run the NFT Marketplace on your local machi
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/saishmirajkar/NFT-Marketplace.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your_repository
+cd NFT-Marketplace
 ```
 
 3. Install the required dependencies:
@@ -88,9 +87,9 @@ We welcome contributions from the community!
 
 For any inquiries or feedback, please reach out to me:
 
-- Email: your_email@example.com
-- Discord: YourUsername#1234
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Email: saishmirajkar0@gmail.com
+- Discord: https://discord.com/users/saish7147 
+- Twitter: https://twitter.com/saishmirajkar1
+- GitHub: https://github.com/saishmirajkar
 
 Thank you for using our NFT Marketplace! Join us in the world of unique digital assets and revolutionize the way we buy and sell NFTs. Happy NFT trading! 🎨💱🚀
