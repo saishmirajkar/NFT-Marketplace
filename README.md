@@ -81,7 +81,7 @@ npm start
 
 ## Contributing
 
-We welcome contributions from the community!
+I welcome contributions from the community!
 
 ## Contact
 
